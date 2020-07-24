@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 -->
 </br>
 ### MY STATS
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-1102&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=3f51b5">
 
+<img src="https://github-readme-stats.vercel.app/api?username=aditya-1102&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=3f51b5">
 </br>
+
 ### REACH ME
+
 -> <a href="www.linkedin.com/in/aditya-lall-9466aa18b">LinkedIn</a></br> 
 -> <a href="https://github.com/aditya-1102/">Github</a>
