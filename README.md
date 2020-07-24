@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 **aditya-1102/aditya-1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...Github @aditya-1102 https://github.com/aditya-1102
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
