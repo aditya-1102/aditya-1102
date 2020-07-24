@@ -12,7 +12,6 @@
 ### MY STATS
 
 <img src="https://github-readme-stats.vercel.app/api?username=aditya-1102&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=3f51b5">
-</br>
 
 <!--
 - 🔭 I’m currently working on <b>MEAN Stack Project - Atmanirbhar Bharat</b>
