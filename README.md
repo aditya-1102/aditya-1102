@@ -27,3 +27,9 @@
 -> <a href="www.linkedin.com/in/aditya-lall-9466aa18b">LinkedIn</a></br> 
 -> <a href="https://github.com/aditya-1102/">Github</a>
 -->
+
+<p align="center">
+  _______________________________</br></br>
+⭐️ [aditya-1102](https://github.com/aditya-1102)
+</br></br>_______________________________
+</p>
