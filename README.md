@@ -27,9 +27,12 @@
 -> LinkedIn
 -->
 
-
 <p align="center">
-  _______________________________</br></br>
-⭐️ [aditya-1102](https://github.com/aditya-1102)
-</br></br>_______________________________
+<span>⭐️_Find Me Here_⭐️</span></br>
+  _______________________________</br>
+<!--⭐️ [aditya-1102](https://github.com/aditya-1102)</br>--></br>
+<img src="http://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&link=https://github.com/aditya-1102&style=plastic">
+<img src="http://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/aditya11hb/&style=plastic">
+<img src="http://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&link=https://www.instagram.com/_.aditya._____/&style=plastic">
+</br>_______________________________
 </p>
