@@ -22,10 +22,10 @@
 - 📫 How to reach me: <b></b>
 - 😄 Pronouns: <b></b>
 - ⚡ Fun fact: <b></b>
-
 ### REACH ME
 -> Github 
 -> LinkedIn
+-->
 
 
 <p align="center">
