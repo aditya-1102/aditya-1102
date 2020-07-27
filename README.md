@@ -24,12 +24,12 @@
 - ⚡ Fun fact: <b></b>
 
 ### REACH ME
+-> Github 
+-> LinkedIn
+
 
 <p align="center">
   _______________________________</br></br>
-⭐️ [aditya-1102](https://github.com/aditya-1102) </br>
+⭐️ [aditya-1102](https://github.com/aditya-1102)
 </br></br>_______________________________
-<p align="left"><img src="http://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&link=https://github.com/aditya-1102&style=plastic"></p>
-<p align="center"><img src="http://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=github&link=https://github.com/aditya-1102&style=plastic"></p>
-<p align="right"><img src="http://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=github&link=https://github.com/aditya-1102&style=plastic"></p>
 </p>
