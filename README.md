@@ -1,4 +1,4 @@
-<h1 align="center"><strong>🖤__HELLO, I AM ADITYA__🖤</strong></h1>
+<h1 align="center"><strong>__HELLO, I AM ADITYA__</strong></h1>
 <h3 align="center">__Information Technology Engineering Student__</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-1102" alt="aditya-1102" /> </p>
 
