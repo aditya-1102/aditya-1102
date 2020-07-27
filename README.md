@@ -22,18 +22,14 @@
 - 📫 How to reach me: <b></b>
 - 😄 Pronouns: <b></b>
 - ⚡ Fun fact: <b></b>
+
 ### REACH ME
--> Github 
--> LinkedIn
+-> <a href="www.linkedin.com/in/aditya-lall-9466aa18b">LinkedIn</a></br> 
+-> <a href="https://github.com/aditya-1102/">Github</a>
 -->
-</br></br></br></br>
 
 <p align="center">
-<span>⭐️_Find Me Here_⭐️</span></br>
-  _______________________________</br>
-<!--⭐️ [aditya-1102](https://github.com/aditya-1102)</br>--></br>
-<img src="http://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&style=plastic" href="https://github.com/aditya-1102/" target="_blank">
-<img src="http://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&style=plastic" href="https://www.linkedin.com/in/aditya11hb/" target="_blank">
-<img src="http://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&style=plastic" href="https://www.instagram.com/_.aditya._____/" target="_blank">
-</br>_______________________________
+  _______________________________</br></br>
+⭐️ [aditya-1102](https://github.com/aditya-1102)
+</br></br>_______________________________
 </p>
