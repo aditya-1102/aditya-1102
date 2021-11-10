@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-1102" alt="aditya-1102" /> </p>
 
 <div align="center">
-<h4 align="center"><b>- ⛪ #Pre-Final Year Student from SSIPMT Raipur, pursuing Information Technology Engineering</b></h4>
+<h4 align="center"><b>- ⛪ #Final Year Student from SSIPMT Raipur, pursuing Information Technology Engineering</b></h4>
 <h4 align="center"><b>- 🦾 #Following my intrests in Programming World</b></h4>
 <h4 align="center"><b>- 💙 #Dream to be capable of doing and knowing everything</b></h4>
 <h4 align="center"><b>- 🤘🏻 #Skilled in Java, Swing, Angular, MongoDB, MySQL, C, C++, Node.js/Express.js, Bootstrap</b></h4>
